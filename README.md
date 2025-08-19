@@ -47,3 +47,6 @@ Welcome to my GitHub! I’m passionate about building impactful solutions using 
 ---
 
 > “Building code is like planning a trip—choose your destination, design your route, and enjoy the adventure!” ✈️
+> ## 🙏 Thanks for Visiting!
+I’m always open to learning, collaboration, and new opportunities.  
+Feel free to explore connect with me on [LinkedIn]https://www.linkedin.com/in/tanaazshaikh 🚀
